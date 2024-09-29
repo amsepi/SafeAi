@@ -1,0 +1,11 @@
+path: /Users/apollo3/Documents/FYP/dataset
+train: /Users/apollo3/Documents/FYP/dataset/images/train
+val: /Users/apollo3/Documents/FYP/dataset/images/val
+test: /Users/apollo3/Documents/FYP/dataset/images/test
+names:
+  0: Person
+  1: Car
+  2: Bicycle
+  3: OtherVehicle
+  4: DontCare
+nc: 5
